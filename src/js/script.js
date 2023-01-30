@@ -25,15 +25,3 @@ function setColor() {
     count.style.color = "#fff";
   }
 }
-
-// add.addEventListener("click", () => {
-//   count.innerHTML++;
-// });
-
-// sub.addEventListener("click", () => {
-//   count.innerHTML--;
-// });
-
-// resetCount.addEventListener("click", () => {
-//   count.innerHTML = 0;
-// });
