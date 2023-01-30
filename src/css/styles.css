@@ -84,3 +84,11 @@ button.reset {
 button.add {
   background-color: green;
 }
+
+@media (max-width: 370px) {
+  .buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+}
